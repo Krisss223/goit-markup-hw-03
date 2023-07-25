@@ -65,10 +65,9 @@ h2,
 h3,
 h4,
 h5,
-h6,
-{
-margin-top: 0;
-margin-bottom: 0;
+h6 {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 ul,
@@ -137,15 +136,24 @@ ol {
     padding-bottom: 24px;
 }
 
+.header-address-container {
+    display: flex;
+    margin-left: auto;
 
+
+}
 
 .header-address {
     font-style: normal;
+
+
 }
 
 .header-address-list {
     display: flex;
     gap: 40px;
+
+
 
 }
 
@@ -156,6 +164,7 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--contactsColor);
+
 }
 
 
