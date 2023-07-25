@@ -137,9 +137,7 @@ ol {
     padding-bottom: 24px;
 }
 
-.header-address-container {
-    margin-left: auto;
-}
+
 
 .header-address {
     font-style: normal;
@@ -148,6 +146,7 @@ ol {
 .header-address-list {
     display: flex;
     gap: 40px;
+
 }
 
 .header-address-item {}
