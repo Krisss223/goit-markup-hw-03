@@ -136,15 +136,12 @@ ol {
     padding-bottom: 24px;
 }
 
-.header-address-container {
-    display: flex;
-    margin-left: auto;
 
-
-}
 
 .header-address {
     font-style: normal;
+    display: flex;
+    margin-left: auto;
 
 
 }
